@@ -3,12 +3,15 @@
 
 # Botの記憶データ（ユーザーとの会話が含まれるため除外推奨）
 memory.json
+memorywwww.json
 
 # Pythonが自動生成する不要なファイル
 __pycache__/
 
-# リリース用フォルダ
+# フォルダ
 release/
+memories/
+
 
 # その他、プロジェクトに不要なファイルやフォルダがあればここに追加してください
 
